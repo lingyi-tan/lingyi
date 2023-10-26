@@ -1,3 +1,5 @@
 altair
+plotly
+numpy
 pandas
 streamlit
